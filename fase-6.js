@@ -24,8 +24,9 @@ app.post('/bot', (req, res) => {
         image_url: image
       }]
     })
+  } else {
+    res.send('you should send something...')
   }
-  res.send('you should send something...')
 })
 
 app.listen(3000, () => {
