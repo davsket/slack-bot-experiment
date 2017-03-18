@@ -1,0 +1,394 @@
+[
+  {
+    "name": "tenguy",
+    "description": "10 Guy"
+  },
+  {
+    "name": "afraid",
+    "description": "Afraid to Ask Andy"
+  },
+  {
+    "name": "older",
+    "description": "An Older Code Sir, But It Checks Out"
+  },
+  {
+    "name": "aag",
+    "description": "Ancient Aliens Guy"
+  },
+  {
+    "name": "tried",
+    "description": "At Least You Tried"
+  },
+  {
+    "name": "biw",
+    "description": "Baby Insanity Wolf"
+  },
+  {
+    "name": "blb",
+    "description": "Bad Luck Brian"
+  },
+  {
+    "name": "kermit",
+    "description": "But That's None of My Business"
+  },
+  {
+    "name": "bd",
+    "description": "Butthurt Dweller"
+  },
+  {
+    "name": "ch",
+    "description": "Captain Hindsight"
+  },
+  {
+    "name": "cbg",
+    "description": "Comic Book Guy"
+  },
+  {
+    "name": "wonka",
+    "description": "Condescending Wonka"
+  },
+  {
+    "name": "cb",
+    "description": "Confession Bear"
+  },
+  {
+    "name": "keanu",
+    "description": "Conspiracy Keanu"
+  },
+  {
+    "name": "dsm",
+    "description": "Dating Site Murderer"
+  },
+  {
+    "name": "live",
+    "description": "Do It Live!"
+  },
+  {
+    "name": "ants",
+    "description": "Do You Want Ants?"
+  },
+  {
+    "name": "doge",
+    "description": "Doge"
+  },
+  {
+    "name": "alwaysonbeat",
+    "description": "Drake Always On Beat"
+  },
+  {
+    "name": "ermg",
+    "description": "Ermahgerd"
+  },
+  {
+    "name": "facepalm",
+    "description": "Facepalm"
+  },
+  {
+    "name": "fwp",
+    "description": "First World Problems"
+  },
+  {
+    "name": "fa",
+    "description": "Forever Alone"
+  },
+  {
+    "name": "fbf",
+    "description": "Foul Bachelor Frog"
+  },
+  {
+    "name": "fmr",
+    "description": "Fuck Me, Right?"
+  },
+  {
+    "name": "fry",
+    "description": "Futurama Fry"
+  },
+  {
+    "name": "ggg",
+    "description": "Good Guy Greg"
+  },
+  {
+    "name": "hipster",
+    "description": "Hipster Barista"
+  },
+  {
+    "name": "icanhas",
+    "description": "I Can Has Cheezburger?"
+  },
+  {
+    "name": "crazypills",
+    "description": "I Feel Like I'm Taking Crazy Pills"
+  },
+  {
+    "name": "mw",
+    "description": "I Guarantee It"
+  },
+  {
+    "name": "noidea",
+    "description": "I Have No Idea What I'm Doing"
+  },
+  {
+    "name": "regret",
+    "description": "I Immediately Regret This Decision!"
+  },
+  {
+    "name": "boat",
+    "description": "I Should Buy a Boat Cat"
+  },
+  {
+    "name": "hagrid",
+    "description": "I Should Not Have Said That"
+  },
+  {
+    "name": "sohappy",
+    "description": "I Would Be So Happy"
+  },
+  {
+    "name": "captain",
+    "description": "I am the Captain Now"
+  },
+  {
+    "name": "inigo",
+    "description": "Inigo Montoya"
+  },
+  {
+    "name": "iw",
+    "description": "Insanity Wolf"
+  },
+  {
+    "name": "ackbar",
+    "description": "It's A Trap!"
+  },
+  {
+    "name": "happening",
+    "description": "It's Happening"
+  },
+  {
+    "name": "joker",
+    "description": "It's Simple, Kill the Batman"
+  },
+  {
+    "name": "ive",
+    "description": "Jony Ive Redesigns Things"
+  },
+  {
+    "name": "ll",
+    "description": "Laughing Lizard"
+  },
+  {
+    "name": "morpheus",
+    "description": "Matrix Morpheus"
+  },
+  {
+    "name": "mb",
+    "description": "Member Berries"
+  },
+  {
+    "name": "badchoice",
+    "description": "Milk Was a Bad Choice"
+  },
+  {
+    "name": "mmm",
+    "description": "Minor Mistake Marvin"
+  },
+  {
+    "name": "jetpack",
+    "description": "Nothing To Do Here"
+  },
+  {
+    "name": "imsorry",
+    "description": "Oh, I'm Sorry, I Thought This Was America"
+  },
+  {
+    "name": "red",
+    "description": "Oh, Is That What We're Going to Do Today?"
+  },
+  {
+    "name": "mordor",
+    "description": "One Does Not Simply Walk into Mordor"
+  },
+  {
+    "name": "oprah",
+    "description": "Oprah You Get a Car"
+  },
+  {
+    "name": "oag",
+    "description": "Overly Attached Girlfriend"
+  },
+  {
+    "name": "remembers",
+    "description": "Pepperidge Farm Remembers"
+  },
+  {
+    "name": "philosoraptor",
+    "description": "Philosoraptor"
+  },
+  {
+    "name": "jw",
+    "description": "Probably Not a Good Idea"
+  },
+  {
+    "name": "patrick",
+    "description": "Push it somewhere else Patrick"
+  },
+  {
+    "name": "rollsafe",
+    "description": "Roll Safe"
+  },
+  {
+    "name": "sad-obama",
+    "description": "Sad Barack Obama"
+  },
+  {
+    "name": "sad-clinton",
+    "description": "Sad Bill Clinton"
+  },
+  {
+    "name": "sadfrog",
+    "description": "Sad Frog / Feels Bad Man"
+  },
+  {
+    "name": "sad-bush",
+    "description": "Sad George Bush"
+  },
+  {
+    "name": "sad-biden",
+    "description": "Sad Joe Biden"
+  },
+  {
+    "name": "sad-boehner",
+    "description": "Sad John Boehner"
+  },
+  {
+    "name": "saltbae",
+    "description": "Salt Bae"
+  },
+  {
+    "name": "sarcasticbear",
+    "description": "Sarcastic Bear"
+  },
+  {
+    "name": "dwight",
+    "description": "Schrute Facts"
+  },
+  {
+    "name": "sb",
+    "description": "Scumbag Brain"
+  },
+  {
+    "name": "ss",
+    "description": "Scumbag Steve"
+  },
+  {
+    "name": "sf",
+    "description": "Sealed Fate"
+  },
+  {
+    "name": "dodgson",
+    "description": "See? Nobody Cares"
+  },
+  {
+    "name": "money",
+    "description": "Shut Up and Take My Money!"
+  },
+  {
+    "name": "sohot",
+    "description": "So Hot Right Now"
+  },
+  {
+    "name": "nice",
+    "description": "So I Got That Goin' For Me, Which is Nice"
+  },
+  {
+    "name": "awesome-awkward",
+    "description": "Socially Awesome Awkward Penguin"
+  },
+  {
+    "name": "awesome",
+    "description": "Socially Awesome Penguin"
+  },
+  {
+    "name": "awkward-awesome",
+    "description": "Socially Awkward Awesome Penguin"
+  },
+  {
+    "name": "awkward",
+    "description": "Socially Awkward Penguin"
+  },
+  {
+    "name": "fetch",
+    "description": "Stop Trying to Make Fetch Happen"
+  },
+  {
+    "name": "success",
+    "description": "Success Kid"
+  },
+  {
+    "name": "scc",
+    "description": "Sudden Clarity Clarence"
+  },
+  {
+    "name": "ski",
+    "description": "Super Cool Ski Instructor"
+  },
+  {
+    "name": "officespace",
+    "description": "That Would Be Great"
+  },
+  {
+    "name": "interesting",
+    "description": "The Most Interesting Man in the World"
+  },
+  {
+    "name": "toohigh",
+    "description": "The Rent Is Too Damn High"
+  },
+  {
+    "name": "bs",
+    "description": "This is Bull, Shark"
+  },
+  {
+    "name": "center",
+    "description": "What is this, a Center for Ants?!"
+  },
+  {
+    "name": "both",
+    "description": "Why Not Both?"
+  },
+  {
+    "name": "winter",
+    "description": "Winter is coming"
+  },
+  {
+    "name": "xy",
+    "description": "X all the Y"
+  },
+  {
+    "name": "buzz",
+    "description": "X, X Everywhere"
+  },
+  {
+    "name": "yodawg",
+    "description": "Xzibit Yo Dawg"
+  },
+  {
+    "name": "yuno",
+    "description": "Y U NO Guy"
+  },
+  {
+    "name": "yallgot",
+    "description": "Y'all Got Any More of Them"
+  },
+  {
+    "name": "bad",
+    "description": "You Should Feel Bad"
+  },
+  {
+    "name": "elf",
+    "description": "You Sit on a Throne of Lies"
+  },
+  {
+    "name": "chosen",
+    "description": "You Were the Chosen One!"
+  }
+]

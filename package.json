@@ -1,0 +1,27 @@
+{
+  "name": "slack-bot-experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fase-7.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node fase-7.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davsket/slack-bot-experiment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davsket/slack-bot-experiment/issues"
+  },
+  "homepage": "https://github.com/davsket/slack-bot-experiment#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "now-logs": "0.0.7",
+    "request": "^2.81.0"
+  }
+}

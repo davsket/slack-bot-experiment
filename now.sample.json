@@ -1,0 +1,7 @@
+{
+  "alias": ["your-alias"],
+  "env": {
+    "SLACK_WEBHOOK_URL": "https://hooks.slack.com/services/your/webhook/url",
+    "SLACK_OAUTH": "xoxo-3500940031-3500949957-155578153044-5eca71740c80179e0d1d69dd8014b2d5"
+  }
+}
